@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[norbu09]]></title>
-  <link href="http://norbu09.org/atom.xml" rel="self"/>
-  <link href="http://norbu09.org/"/>
-  <updated>2012-10-03T00:39:07+13:00</updated>
-  <id>http://norbu09.org/</id>
+  <link href="http://norbu09.github.com/atom.xml" rel="self"/>
+  <link href="http://norbu09.github.com/"/>
+  <updated>2012-10-03T00:55:55+13:00</updated>
+  <id>http://norbu09.github.com/</id>
   <author>
     <name><![CDATA[norbu09]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[SSH tunnel script(2)]]></title>
-    <link href="http://norbu09.org/blog/2010/11/05/SSH-tunnel-script2/"/>
+    <link href="http://norbu09.github.com/blog/2010/11/05/SSH-tunnel-script2/"/>
     <updated>2010-11-05T00:00:00+13:00</updated>
-    <id>http://norbu09.org/blog/2010/11/05/SSH-tunnel-script2</id>
+    <id>http://norbu09.github.com/blog/2010/11/05/SSH-tunnel-script2</id>
     <content type="html"><![CDATA[<h1>SSH tunnel script(2)</h1>
 
 <p>I work quite a bit with daemons on remote hosts that are normally not
@@ -72,9 +72,9 @@ tunnel frontend.couchdb
   
   <entry>
     <title type="html"><![CDATA[InternetNZ's missed opportunity]]></title>
-    <link href="http://norbu09.org/blog/2010/07/27/InternetNZ%27s-missed-opportunity/"/>
+    <link href="http://norbu09.github.com/blog/2010/07/27/InternetNZ%27s-missed-opportunity/"/>
     <updated>2010-07-27T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2010/07/27/InternetNZ&#8217;s-missed-opportunity</id>
+    <id>http://norbu09.github.com/blog/2010/07/27/InternetNZ&#8217;s-missed-opportunity</id>
     <content type="html"><![CDATA[<h1>InternetNZ&#8217;s missed opportunity</h1>
 
 <p>Open and uncapturable is the mission of InternetNZ and the promise to
@@ -113,9 +113,9 @@ being part of this society.</p>
   
   <entry>
     <title type="html"><![CDATA[slides from Web Meetup]]></title>
-    <link href="http://norbu09.org/blog/2010/07/15/slides-from-Web-Meetup/"/>
+    <link href="http://norbu09.github.com/blog/2010/07/15/slides-from-Web-Meetup/"/>
     <updated>2010-07-15T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2010/07/15/slides-from-Web-Meetup</id>
+    <id>http://norbu09.github.com/blog/2010/07/15/slides-from-Web-Meetup</id>
     <content type="html"><![CDATA[<p>slides from Web Meetup</p>
 
 <p>The slides from my short talk at the <a href="http://www.meetup.com/wellingtonweb/">Wellington Web Meetup</a> about
@@ -128,15 +128,15 @@ worst user experience in Wellington in 2 min min 5 min max.</p>
 
 
 <p>and here is a direct link to the PDF:
-<a href="http://norbu09.org/images/url_ux.pdf">PDF</a></p>
+<a href="http://norbu09.github.com/images/url_ux.pdf">PDF</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[lean prototyping stack]]></title>
-    <link href="http://norbu09.org/blog/2010/05/25/lean-prototyping-stack/"/>
+    <link href="http://norbu09.github.com/blog/2010/05/25/lean-prototyping-stack/"/>
     <updated>2010-05-25T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2010/05/25/lean-prototyping-stack</id>
+    <id>http://norbu09.github.com/blog/2010/05/25/lean-prototyping-stack</id>
     <content type="html"><![CDATA[<h1>lean prototyping stack</h1>
 
 <p>For my new startup I play with a lean prototyping stack that will enable
@@ -189,9 +189,9 @@ happy to share more if there is interest.</p>
   
   <entry>
     <title type="html"><![CDATA[slides from mojolicious talk]]></title>
-    <link href="http://norbu09.org/blog/2010/05/12/slides-from-mojolicious-talk/"/>
+    <link href="http://norbu09.github.com/blog/2010/05/12/slides-from-mojolicious-talk/"/>
     <updated>2010-05-12T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2010/05/12/slides-from-mojolicious-talk</id>
+    <id>http://norbu09.github.com/blog/2010/05/12/slides-from-mojolicious-talk</id>
     <content type="html"><![CDATA[<h1>slides from mojolicious talk</h1>
 
 <p>The slides from my talk about mojolicious at perlmongers Wellington
@@ -218,15 +218,15 @@ Gschwendtner</a>.</div>
 
 <p>and the PDF version:</p>
 
-<p><a href="http://norbu09.org/images/mojo.pdf">mojo.pdf</a></p>
+<p><a href="http://norbu09.github.com/images/mojo.pdf">mojo.pdf</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[customer uses proposal as spec]]></title>
-    <link href="http://norbu09.org/blog/2010/05/07/customer-uses-proposal-as-spec/"/>
+    <link href="http://norbu09.github.com/blog/2010/05/07/customer-uses-proposal-as-spec/"/>
     <updated>2010-05-07T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2010/05/07/customer-uses-proposal-as-spec</id>
+    <id>http://norbu09.github.com/blog/2010/05/07/customer-uses-proposal-as-spec</id>
     <content type="html"><![CDATA[<h1>customer uses proposal as spec</h1>
 
 <p>One of the joys of working as a contractor is quoting for projects that
@@ -261,9 +261,9 @@ anymore, guess it is healthier and less stressful in the end.</p>
   
   <entry>
     <title type="html"><![CDATA[real geeks die early]]></title>
-    <link href="http://norbu09.org/blog/2010/05/05/every-once-in-a-while/"/>
+    <link href="http://norbu09.github.com/blog/2010/05/05/every-once-in-a-while/"/>
     <updated>2010-05-05T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2010/05/05/every-once-in-a-while</id>
+    <id>http://norbu09.github.com/blog/2010/05/05/every-once-in-a-while</id>
     <content type="html"><![CDATA[<h1>real geeks die early</h1>
 
 <p>every once in a while i <a href="http://www.skorks.com/2010/02/did-your-boss-thank-you-for-coding-yourself-to-death/">stumble upon an article</a> from someone pointing
@@ -323,9 +323,9 @@ developer!</p>
   
   <entry>
     <title type="html"><![CDATA[ignite wellington talk]]></title>
-    <link href="http://norbu09.org/blog/2010/04/06/ignite-wellington-talk/"/>
+    <link href="http://norbu09.github.com/blog/2010/04/06/ignite-wellington-talk/"/>
     <updated>2010-04-06T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2010/04/06/ignite-wellington-talk</id>
+    <id>http://norbu09.github.com/blog/2010/04/06/ignite-wellington-talk</id>
     <content type="html"><![CDATA[<h1>ignite wellington talk</h1>
 
 <p>the slides and the video from my ignite wellington talk are finally
@@ -370,9 +370,9 @@ Gschwendtner</a>.</div>
   
   <entry>
     <title type="html"><![CDATA[testing buzz ...]]></title>
-    <link href="http://norbu09.org/blog/2010/02/10/testing-buzz-.../"/>
+    <link href="http://norbu09.github.com/blog/2010/02/10/testing-buzz-.../"/>
     <updated>2010-02-10T00:00:00+13:00</updated>
-    <id>http://norbu09.org/blog/2010/02/10/testing-buzz-&#8230;</id>
+    <id>http://norbu09.github.com/blog/2010/02/10/testing-buzz-&#8230;</id>
     <content type="html"><![CDATA[<h1>testing buzz &#8230;</h1>
 
 <p>as buzz is only available via my iPhone so far i tried to figure out
@@ -387,9 +387,9 @@ whatever. we will see in &#8230; hours/days/weeks &#8230; who cares anyway :-)</
   
   <entry>
     <title type="html"><![CDATA[test driven monitoring]]></title>
-    <link href="http://norbu09.org/blog/2010/02/09/test-driven-monitoring/"/>
+    <link href="http://norbu09.github.com/blog/2010/02/09/test-driven-monitoring/"/>
     <updated>2010-02-09T00:00:00+13:00</updated>
-    <id>http://norbu09.org/blog/2010/02/09/test-driven-monitoring</id>
+    <id>http://norbu09.github.com/blog/2010/02/09/test-driven-monitoring</id>
     <content type="html"><![CDATA[<h1>test driven monitoring</h1>
 
 <p>the slides from my talk at perlmongers Wellington are up on slideshare.
@@ -421,15 +421,15 @@ Gschwendtner</a>.</div>
 
 <p></div></p>
 
-<p>And a direct <a href="http://norbu09.org/images/TheEye.pdf">link to the PDF</a></p>
+<p>And a direct <a href="http://norbu09.github.com/images/TheEye.pdf">link to the PDF</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[slides from LCA talk]]></title>
-    <link href="http://norbu09.org/blog/2010/01/19/slides-from-LCA-talk/"/>
+    <link href="http://norbu09.github.com/blog/2010/01/19/slides-from-LCA-talk/"/>
     <updated>2010-01-19T00:00:00+13:00</updated>
-    <id>http://norbu09.org/blog/2010/01/19/slides-from-LCA-talk</id>
+    <id>http://norbu09.github.com/blog/2010/01/19/slides-from-LCA-talk</id>
     <content type="html"><![CDATA[<h1>MPI, Erlang and the web</h1>
 
 <p>The slides from my talk at LCA2010 in Wellington about parallel
@@ -439,15 +439,15 @@ on slideshare</p>
 <div style="width:425px;text-align:left" id="__ss_2944765"><a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/norbu09/mpi-erlang-and-the-web" title="MPI, Erlang and the web">MPI, Erlang and the web</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=mpi-erlang-and-the-web-100118182245-phpapp02&stripped_title=mpi-erlang-and-the-web" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=mpi-erlang-and-the-web-100118182245-phpapp02&stripped_title=mpi-erlang-and-the-web" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">documents</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/norbu09">Lenz Gschwendtner</a>.</div></div>
 
 
-<p>And a direct <a href="http://norbu09.org/images/mpi-erlang-and-the-web.pdf">link to the PDF</a></p>
+<p>And a direct <a href="http://norbu09.github.com/images/mpi-erlang-and-the-web.pdf">link to the PDF</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[3 new destination markets in some months]]></title>
-    <link href="http://norbu09.org/blog/2010/01/15/3-new-destination-markets-in-some-weeks/"/>
+    <link href="http://norbu09.github.com/blog/2010/01/15/3-new-destination-markets-in-some-weeks/"/>
     <updated>2010-01-15T00:00:00+13:00</updated>
-    <id>http://norbu09.org/blog/2010/01/15/3-new-destination-markets-in-some-weeks</id>
+    <id>http://norbu09.github.com/blog/2010/01/15/3-new-destination-markets-in-some-weeks</id>
     <content type="html"><![CDATA[<h1>Three new destination markets in some months</h1>
 
 <p>It&#8217;s been a bit of a busy time lately as we launched three new platforms
@@ -516,9 +516,9 @@ managed to create a scalable system that is extremely flexible and fast.</p>
   
   <entry>
     <title type="html"><![CDATA[one system to rule them all]]></title>
-    <link href="http://norbu09.org/blog/2009/10/15/one-system-to-rule-them-all/"/>
+    <link href="http://norbu09.github.com/blog/2009/10/15/one-system-to-rule-them-all/"/>
     <updated>2009-10-15T00:00:00+13:00</updated>
-    <id>http://norbu09.org/blog/2009/10/15/one-system-to-rule-them-all</id>
+    <id>http://norbu09.github.com/blog/2009/10/15/one-system-to-rule-them-all</id>
     <content type="html"><![CDATA[<h1>One system to rule them all</h1>
 
 <p>Here are the slides from my talk at erounge Wellington yesterday. It is
@@ -548,15 +548,15 @@ Gschwendtner</a>.</div>
 
 <p></div></p>
 
-<p>And a direct <a href="http://norbu09.org/images/one-system-to-rule-them-all.pdf">link to the PDF</a></p>
+<p>And a direct <a href="http://norbu09.github.com/images/one-system-to-rule-them-all.pdf">link to the PDF</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[RabbitMQ for perl mongers]]></title>
-    <link href="http://norbu09.org/blog/2009/09/09/RabbitMQ-talk-at-perlmongers/"/>
+    <link href="http://norbu09.github.com/blog/2009/09/09/RabbitMQ-talk-at-perlmongers/"/>
     <updated>2009-09-09T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2009/09/09/RabbitMQ-talk-at-perlmongers</id>
+    <id>http://norbu09.github.com/blog/2009/09/09/RabbitMQ-talk-at-perlmongers</id>
     <content type="html"><![CDATA[<p>RabbitMQ for perl mongers</p>
 
 <p>This is a short summary of the talk I gave yesterday at perl mongers
@@ -600,9 +600,9 @@ know more feel free to contact me.</p>
   
   <entry>
     <title type="html"><![CDATA[Django like URL mapping in Catalyst - kind of]]></title>
-    <link href="http://norbu09.org/blog/2009/08/26/Django-like-URL-mapping-in-Catalyst---kind-of/"/>
+    <link href="http://norbu09.github.com/blog/2009/08/26/Django-like-URL-mapping-in-Catalyst---kind-of/"/>
     <updated>2009-08-26T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2009/08/26/Django-like-URL-mapping-in-Catalyst&#8212;kind-of</id>
+    <id>http://norbu09.github.com/blog/2009/08/26/Django-like-URL-mapping-in-Catalyst&#8212;kind-of</id>
     <content type="html"><![CDATA[<p>Django like URL mapping in Catalyst - kind of</p>
 
 <p>The problem I tried to solve is trivial, at least that was what I
@@ -643,9 +643,9 @@ I can move on :-)</p>
   
   <entry>
     <title type="html"><![CDATA[simple ssh tunnel script]]></title>
-    <link href="http://norbu09.org/blog/2009/08/04/simple-ssh-tunnel-script/"/>
+    <link href="http://norbu09.github.com/blog/2009/08/04/simple-ssh-tunnel-script/"/>
     <updated>2009-08-04T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2009/08/04/simple-ssh-tunnel-script</id>
+    <id>http://norbu09.github.com/blog/2009/08/04/simple-ssh-tunnel-script</id>
     <content type="html"><![CDATA[<h1>Simple ssh tunnel script</h1>
 
 <p>When replicating CouchDB you need either VPN oder authentication or
@@ -698,9 +698,9 @@ you are using in the <code>$USER</code> variable.</p>
   
   <entry>
     <title type="html"><![CDATA[git via HTTP (startup automation 3)]]></title>
-    <link href="http://norbu09.org/blog/2009/08/02/git-via-HTTP-%28startup-automation-3%29/"/>
+    <link href="http://norbu09.github.com/blog/2009/08/02/git-via-HTTP-%28startup-automation-3%29/"/>
     <updated>2009-08-02T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2009/08/02/git-via-HTTP-(startup-automation-3)</id>
+    <id>http://norbu09.github.com/blog/2009/08/02/git-via-HTTP-(startup-automation-3)</id>
     <content type="html"><![CDATA[<h1>Startup automation - Part 3</h1>
 
 <h2>git via HTTP with nginx</h2>
@@ -866,9 +866,9 @@ in his <code>.profile</code> or your shell specific equivalent (eg <code>.bashrc
   
   <entry>
     <title type="html"><![CDATA[RabbitMQ talk at erlounge]]></title>
-    <link href="http://norbu09.org/blog/2009/07/17/RabbitMQ-talk-at-erlounge/"/>
+    <link href="http://norbu09.github.com/blog/2009/07/17/RabbitMQ-talk-at-erlounge/"/>
     <updated>2009-07-17T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2009/07/17/RabbitMQ-talk-at-erlounge</id>
+    <id>http://norbu09.github.com/blog/2009/07/17/RabbitMQ-talk-at-erlounge</id>
     <content type="html"><![CDATA[<p>RabbitMQ talk at erlounge</p>
 
 <p>This is a short summary of the talk I gave yesterday at erlounge
@@ -914,9 +914,9 @@ in the topic.</p>
   
   <entry>
     <title type="html"><![CDATA[puppet basics (startup automation 2)]]></title>
-    <link href="http://norbu09.org/blog/2009/06/14/puppet-basics-startautomation/"/>
+    <link href="http://norbu09.github.com/blog/2009/06/14/puppet-basics-startautomation/"/>
     <updated>2009-06-14T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2009/06/14/puppet-basics-startautomation</id>
+    <id>http://norbu09.github.com/blog/2009/06/14/puppet-basics-startautomation</id>
     <content type="html"><![CDATA[<h1>Startup automation - Part 2</h1>
 
 <h2>puppet basics</h2>
@@ -1035,9 +1035,9 @@ report success.</p>
   
   <entry>
     <title type="html"><![CDATA[puppet and gitosis (startup automation 1)]]></title>
-    <link href="http://norbu09.org/blog/2009/06/10/gitosis-and-puppet-setup-startupautomation/"/>
+    <link href="http://norbu09.github.com/blog/2009/06/10/gitosis-and-puppet-setup-startupautomation/"/>
     <updated>2009-06-10T00:00:00+12:00</updated>
-    <id>http://norbu09.org/blog/2009/06/10/gitosis-and-puppet-setup-startupautomation</id>
+    <id>http://norbu09.github.com/blog/2009/06/10/gitosis-and-puppet-setup-startupautomation</id>
     <content type="html"><![CDATA[<h1>Startup automation - Part 1</h1>
 
 <p>Startup automation became a big buzz currently but I think it has always
