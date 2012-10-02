@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://norbu09.github.com
-title: /dev/random
-subtitle: generic perl hacker blogging about stuff
+url: http://norbu09.org
+title: norbu09
+subtitle: Lenz Gschwendtner
 author: norbu09
 simple_search: http://google.com/search
-description:
+description: random thoughts about software development and startup automation
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -35,6 +35,7 @@ code_dir: downloads/code
 category_dir: blog/categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
+theme: bootstrap
 
 paginate: 10          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
@@ -77,8 +78,8 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
-googleplus_hidden: false
+googleplus_user: 104641758070481098832
+googleplus_hidden: true
 
 # Pinboard
 pinboard_user:
@@ -89,8 +90,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: norbu09org
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
